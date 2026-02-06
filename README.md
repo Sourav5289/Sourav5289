@@ -6,11 +6,7 @@ Student @ Sapthagiri NPS University
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [souravhm5289@gmail.com](mailto:souravhm5289@gmail.com)
-* 🧠  I'm currently learning:
-![Data Structures](https://img.shields.io/badge/Data_Structures-4B8BBE?style=for-the-badge) 
-![Algorithms](https://img.shields.io/badge/Algorithms-306998?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-D00000?style=for-the-badge)
+* 🧠  I'm currently learning:![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 * 👥  I'm looking to collaborate on AIML Projects
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.sourav._05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souravhm ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souravhm5289@gmail.com) 
